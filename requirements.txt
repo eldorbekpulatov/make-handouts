@@ -5,5 +5,5 @@ gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 Werkzeug==0.15.5
